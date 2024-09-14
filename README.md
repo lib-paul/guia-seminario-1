@@ -1,4 +1,4 @@
-# Guia de recursos y repositorio para reportes (issues) técnicos de la materia de Seminario 1 (2024 - IFTS16)
+# Guia de recursos y repositorio para reportes (issues) técnicos de la materia Seminario 1 (2024 - IFTS16)
 Conjunto de recursos técnicos/guias para la materia Seminario 1 
 
 * <strong>En caso de no poder visualizar correctamente usar las teclas `CTRL y +` para hacer zoom en este Readme, hasta un recomendado del 130%</strong>.
